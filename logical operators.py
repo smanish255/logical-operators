@@ -1,0 +1,23 @@
+a=float(input("enter an a number: "))
+b=float(input("enter an b number: "))
+c=float(input("enter an c number: "))
+print("*"*100)
+print("result of logical  operators")
+print(a>b and b>c)
+print("*"*100)
+print(a>b and b==c)
+print("*"*100)
+print(a<b and b<c)
+print("*"*100)
+print(a<b and b==c)
+print("*"*100)
+print(a!=b and b>c)
+print("*"*100)
+print(a!=b or b!=c)
+print("*"*100)
+print(a==b or b>c)
+print("*"*100)
+print (not(a==b or b>c))
+
+
+            
